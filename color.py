@@ -1,0 +1,9 @@
+red = 245, 46, 45
+menuColor = 102, 61, 32
+gray = 144, 144, 144
+playerColor = 234, 167, 55
+enemyColor = 43, 244, 73
+bulletColor = 245, 54, 123
+repellColor = 208, 209, 45
+sluggishColor = 34, 123, 244
+bombColor = 156, 35, 187
